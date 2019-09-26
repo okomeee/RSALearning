@@ -48,7 +48,7 @@ RSA?
   - [RSA暗号解読問題を解く(前編)[CTF for Beginners 2018]"RSA is Power"](http://k-mawa.hateblo.jp/entry/2018/06/07/192242)
   - [RSA暗号解読問題を解く(後編)[CTF for Beginners 2018]"RSA is Power"](http://k-mawa.hateblo.jp/entry/2018/06/19/141347)
 - opennsslで遊んでみた
--- [opensslでRSA暗号と遊ぶ](https://ozuma.hatenablog.jp/entry/20130510/1368114329)
+  - [opensslでRSA暗号と遊ぶ](https://ozuma.hatenablog.jp/entry/20130510/1368114329)
 
 - [msieve install for Ubuntu(wsl)](http://inaz2.hatenablog.com/entry/2016/01/09/032521)
 
